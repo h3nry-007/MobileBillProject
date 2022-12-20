@@ -1,5 +1,8 @@
 # MobileBillProject
 October 1 2022
 
-This is assignment porjects of NCC. Successful Project, Open Source project and only backend but no database. Run time data storage
+Mobile Bill Payment System program ဖြစ်ပါတယ်။
+Database မပါဝင်ပါ။ Run time program သာဖြစ်ပြီးတော့ statics ဖြစ်ပါတယ်။
 
+## Language
+C++ only (backend)
